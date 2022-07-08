@@ -2,7 +2,7 @@ import React from 'react'
 
 export default function Landing() {
   return (
-    <div className='text-red-500'>
+    <div>
         
 
 <section class="w-full px-8 text-gray-700 bg-white">
