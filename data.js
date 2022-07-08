@@ -5,3 +5,5 @@ export const data = [{
 
     pricingThree: 59,
 }]
+
+//data for the map function
